@@ -1,1 +1,59 @@
+body {
 
+    margin: 20px 50px 0 50px ;
+    
+    }
+    
+img {
+
+    height: 500px
+
+}
+
+#logo {
+
+    height: 70px
+    
+    
+    }
+
+ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(202, 202, 212);
+}
+
+li {
+
+    float: left;
+    border-right:1px solid #bbb;
+    margin: 10px ;
+    display: block;
+}
+
+.main_page {
+
+    background-image: url('bmw_image_bg.jpg');
+    
+}
+
+h1 {
+
+color: white;
+font-size: 72px;
+text-align: center;
+margin: auto;
+padding-top: 210px;
+
+
+/* top: 300px; */
+
+
+}
+
+#main_page_image {
+    background-repeat: round;
+}

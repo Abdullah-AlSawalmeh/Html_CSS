@@ -5,6 +5,7 @@ alert("Hello" + " " + x);
 console.log ("Hello" + " " + x);
 
 var y = prompt("What is the result of 5+5? ");
+
 if (y==10) {
 
     alert("Corrrrrect!!! ");
